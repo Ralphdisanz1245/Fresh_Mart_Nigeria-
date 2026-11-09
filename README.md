@@ -7,6 +7,9 @@ The repository contains an interactive two-page Power BI dashboard and a plain-l
 
 ---
 
+## Image of Dashboard Screenshots
+
+
 ## 📁 Repository Contents
 
 | File | Description |
