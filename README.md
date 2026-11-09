@@ -8,6 +8,8 @@ The repository contains an interactive two-page Power BI dashboard and a plain-l
 ---
 
 ## Image of Dashboard Screenshots
+![Profitability Dashboard](images/Screenshot%202026-11-09%20121959.png)
+![Cost Dashboard](images/Screenshot%202026-11-09%20121850.png)
 
 
 ## 📁 Repository Contents
